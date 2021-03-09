@@ -1,8 +1,7 @@
 # Naive-Bayes
 
-## Implemented NaiveBayes algorithm for tweet classifications. 
-
-### Used Twitter Senitment Analysis data, where each tweet is tagged as with either Positive, Negative, or Neutral sentiment.
+Implemented NaiveBayes algorithm for tweet classifications. 
+Used Twitter Senitment Analysis data, where each tweet is tagged as with either Positive, Negative, or Neutral sentiment.
 
 ### The train sub-folder contains the data for training the Naive Bayes model.
 #### There are 3098 total sentences in the train data.
